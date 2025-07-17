@@ -186,6 +186,20 @@ main > section{
   filter: grayscale(100%);
 }
 
+footer{
+    max-width: 1440px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 130px auto;
+    
+}
+.footer-decription{
+    margin: 35px 400px;
+    font-size: 1.25rem;
+}
+
 
 
 
